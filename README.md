@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BHarp10
-- 👀 I’m interested in among us crew link
+- 👀 I’m interested in Economy
 - 🌱 I’m currently learning how to work github
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m looking to collaborate on Economy
 - 📫 How to reach me on discord
 
 <!---
